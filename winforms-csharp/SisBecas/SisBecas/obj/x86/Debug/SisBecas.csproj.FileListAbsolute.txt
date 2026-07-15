@@ -1,0 +1,12 @@
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\bin\x86\Debug\SisBecas.exe.config
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\bin\x86\Debug\SisBecas.exe
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\bin\x86\Debug\SisBecas.pdb
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\bin\x86\Debug\System.Data.SQLite.dll
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.csproj.AssemblyReference.cache
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.Form1.resources
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.Properties.Resources.resources
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.csproj.GenerateResource.cache
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.csproj.Up2Date
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.exe
+C:\xampp\htdocs\practica-final-becas\winforms-csharp\SisBecas\SisBecas\obj\x86\Debug\SisBecas.pdb
